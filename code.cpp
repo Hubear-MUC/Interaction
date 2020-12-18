@@ -1,2 +1,4 @@
 #include<stdio.h>
-main(){printf("C");}
+main(){
+printf("C");
+}

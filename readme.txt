@@ -1,4 +1,4 @@
-Interaction 1.0
+Interaction 1.1
 
 The first real user interaction made by a program of this coding skill- regaining project.
 
@@ -15,6 +15,12 @@ Unfortunately there was no space for the new line- character anymore, so watch c
 
 Version history:
 ----------------
+
+Version 1.1
+
+Code redesign to make it more comfortable to read and maintain.
+The function is the same as in version 1.0
+
 
 Version 1.0
 
