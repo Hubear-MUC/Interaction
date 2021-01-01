@@ -9,6 +9,13 @@ See readme.txt file for details
 Version history:
 ----------------
 
+Version 1.3
+
+Added the line break in the output on the terminal.
+So now the "C" won't hide before the prompt anymore and will be visible more clearly.
+This will improve the user interaction a lot.
+
+
 Version 1.2
 
 Code redesign to make it more comfortable to read and maintain.
