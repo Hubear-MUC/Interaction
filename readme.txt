@@ -1,4 +1,4 @@
-Interaction 1.2
+Interaction 1.3
 
 The first real user interaction made by a program of this coding skill- regaining project.
 
@@ -15,6 +15,13 @@ Unfortunately there was no space for the new line- character anymore, so watch c
 
 Version history:
 ----------------
+
+Version 1.3
+
+Added the line break in the output on the terminal.
+So now the "C" won't hide before the prompt anymore and will be visible more clearly.
+This will improve the user interaction a lot.
+
 
 Version 1.2
 
