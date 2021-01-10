@@ -9,6 +9,12 @@ See readme.txt file for details
 Version history:
 ----------------
 
+Version 1.4
+
+Code redesign to make it readable and maintainable more clearly.
+The function is the same as in version 1.3
+
+
 Version 1.3
 
 Added the line break in the output on the terminal.
