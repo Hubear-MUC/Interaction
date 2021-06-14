@@ -4,10 +4,19 @@ Program for user interaction
 
 See readme.txt file for details
 
+Code space: max. 66 bytes
+
 ---------
 
 Version history:
 ----------------
+
+Version 2.0
+
+The code was written completely new.
+With this version the program not just outputs a message, but also asks a value from the user.
+Thus this time the program does the first real user interaction because also input of data is processed.
+
 
 Version 1.4
 
