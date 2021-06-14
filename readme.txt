@@ -1,22 +1,33 @@
-Interaction 1.4
+Interaction 2.0
 ---------------
 
+From version 2.0 on this program does real user interaction by also allowing the user to enter data which is processed. (Even if the processing is just to store it in a variable and show it again on the screen after this).
 
-The first real user interaction made by a program of this coding skill- regaining project.
+The program can be invoked in a usual shell.
 
-The program gives out a 
+Go into the directory where it is located and just invoke it by its name, for example
 
-  C
+  ./interact
   
-on the terminal when invoked by command line.
+Then the program asks for a number.
 
-The "C" was chosen because the program was written in C.
+Unfortunately there was no code space left to implement also some prompt, so the "asking" for the number ist not visible so well. You can recognize it by a cursor being one line down after presing the ENTER- key at the invocation.
 
-Unfortunately there was no space for the new line- character anymore, so watch carefully at the terminal, especially on the prompt after terminating the program, where the "C" probably hides then.
+Enter a number and see the given number arising on the screen (in the shell window).
+
+The program terminates after showing the given number, using a debugger to examine the answer as it was usual in the past is not necessary this time.
+
 
 
 Version history:
 ----------------
+
+Version 2.0
+
+The code was written completely new.
+With this version the program not just outputs a message, but also asks a value from the user.
+Thus this time the program does the first real user interaction because also input of data is processed.
+
 
 Version 1.4
 

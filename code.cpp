@@ -1,5 +1,2 @@
 #include<stdio.h>
-main()
-{
-printf("C\n");
-}
+int a;main(){scanf("%d",&a);printf("->%d\n",a);}
